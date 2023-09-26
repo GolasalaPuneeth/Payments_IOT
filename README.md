@@ -3,11 +3,11 @@
 
 ## Project Goals:
 
-# Streamlined Payments: We are committed to creating a seamless and efficient payment processing system. Our IoT device will provide a hassle-free payment experience for customers, making transactions faster and more convenient.
+Streamlined Payments: We are committed to creating a seamless and efficient payment processing system. Our IoT device will provide a hassle-free payment experience for customers, making transactions faster and more convenient.
 
-# Enhanced Customer Ordering: The IoT device will also facilitate improved customer ordering, offering intuitive interfaces and features to make placing orders a breeze. We aim to enhance customer satisfaction and loyalty through this system.
+Enhanced Customer Ordering: The IoT device will also facilitate improved customer ordering, offering intuitive interfaces and features to make placing orders a breeze. We aim to enhance customer satisfaction and loyalty through this system.
 
-# Data-Driven Insights: Leveraging the power of PostgreSQL, we'll collect valuable transaction and ordering data. This data will enable businesses to gain deeper insights into customer preferences, trends, and purchasing behaviors.
+Data-Driven Insights: Leveraging the power of PostgreSQL, we'll collect valuable transaction and ordering data. This data will enable businesses to gain deeper insights into customer preferences, trends, and purchasing behaviors.
 
 # Key Technologies:
 
