@@ -24,7 +24,8 @@ We utilize React, a JavaScript library, for building dynamic and interactive use
 ### JavaScript: 
 JavaScript enhances the device's functionality, allowing real-time interactions and client-side scripting.
 
-### PostgreSQL: 
+### PostgreSQL: ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/e6f833d2-9408-44c7-8dce-fd575d743d59)
+
 Our choice of a powerful relational database system to store and manage transaction and customer data securely.
 
 ### "Why IoT?"
