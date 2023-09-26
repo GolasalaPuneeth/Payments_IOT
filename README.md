@@ -19,7 +19,7 @@ Our backend is powered by Python, ensuring robust and reliable server-side funct
 
 The frontend is designed using HTML and CSS to provide a visually appealing and user-friendly interface.
 
-### React: ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/8a219b37-7f3f-413d-9a21-3e8e3fb2ac04)
+### React:   ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/8a219b37-7f3f-413d-9a21-3e8e3fb2ac04)
 We utilize React, a JavaScript library, for building dynamic and interactive user interfaces, ensuring a seamless user experience.
 
 ### JavaScript: 
