@@ -13,20 +13,21 @@ Data-Driven Insights: Leveraging the power of PostgreSQL, we'll collect valuable
 
 ### Python : 
 Our backend is powered by Python, ensuring robust and reliable server-side functionality.
-
-### HTML/CSS: ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/c6d58042-06c7-48a9-988f-be524b1c0ed4)
+!![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/c6d58042-06c7-48a9-988f-be524b1c0ed4)
+### HTML/CSS: 
 
 
 The frontend is designed using HTML and CSS to provide a visually appealing and user-friendly interface.
-
-### React:   ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/8a219b37-7f3f-413d-9a21-3e8e3fb2ac04)
+![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/8a219b37-7f3f-413d-9a21-3e8e3fb2ac04)
+### React:   
 We utilize React, a JavaScript library, for building dynamic and interactive user interfaces, ensuring a seamless user experience.
-
-### JavaScript: ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/315a87cb-b8d8-492e-b1d3-95f2ce756d0f)
+![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/315a87cb-b8d8-492e-b1d3-95f2ce756d0f)
+### JavaScript: 
 
 JavaScript enhances the device's functionality, allowing real-time interactions and client-side scripting.
+![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/e6f833d2-9408-44c7-8dce-fd575d743d59)
 
-### PostgreSQL: ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/e6f833d2-9408-44c7-8dce-fd575d743d59)
+### PostgreSQL: 
 
 Our choice of a powerful relational database system to store and manage transaction and customer data securely.
 ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/10403a60-344e-466a-b35c-5cc43f645504)
