@@ -30,7 +30,8 @@ JavaScript enhances the device's functionality, allowing real-time interactions 
 
 Our choice of a powerful relational database system to store and manage transaction and customer data securely.
 
-### "Why IoT?"
+### "Why IoT?" ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/10403a60-344e-466a-b35c-5cc43f645504)
+
 IoT technology enables us to connect devices to the internet, transforming them into smart, interconnected solutions. In this project, IoT plays a pivotal role in creating a device that not only processes payments but also collects valuable data to drive business decisions and enhance customer satisfaction.
 
 
