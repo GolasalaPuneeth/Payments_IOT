@@ -1,7 +1,7 @@
 # Payments_IOT
 ### Building an IoT Payment and Ordering System
 
-## Project Goals:
+Project Goals:
 
 Streamlined Payments: We are committed to creating a seamless and efficient payment processing system. Our IoT device will provide a hassle-free payment experience for customers, making transactions faster and more convenient.
 
