@@ -14,7 +14,8 @@ Data-Driven Insights: Leveraging the power of PostgreSQL, we'll collect valuable
 ### Python : 
 Our backend is powered by Python, ensuring robust and reliable server-side functionality.
 
-### HTML/CSS: 
+### HTML/CSS: ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/c6d58042-06c7-48a9-988f-be524b1c0ed4)
+
 
 The frontend is designed using HTML and CSS to provide a visually appealing and user-friendly interface.
 
