@@ -25,9 +25,7 @@ The frontend is designed using HTML and CSS to provide a visually appealing and 
 ### React:   
 
 We utilize React, a JavaScript library, for building dynamic and interactive user interfaces, ensuring a seamless user experience.
-
-![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/315a87cb-b8d8-492e-b1d3-95f2ce756d0f)
-### JavaScript: 
+ 
 
 JavaScript enhances the device's functionality, allowing real-time interactions and client-side scripting.
 ![image](https://github.com/GolasalaPuneeth/Payments_IOT/assets/97512630/e6f833d2-9408-44c7-8dce-fd575d743d59)
